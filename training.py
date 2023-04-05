@@ -16,4 +16,5 @@ print("Added the hyperparameter tuning to the training.py")
 
 print("Hyperparameter Tuning Bayseain Optimization- Completed")
 
+print("Testing the pipeline")
 print("I want to test the Pipelines")
